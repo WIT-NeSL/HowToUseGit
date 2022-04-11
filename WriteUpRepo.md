@@ -32,7 +32,11 @@
 
 # 关于协作
 
-推荐观看https://github.com/WIT-NeSL/HowToUseGit后完成相应试验后再开始写题解。
+推荐观看
+
+https://github.com/WIT-NeSL/HowToUseGit
+
+后完成相应试验后再开始写题解。
 
 # 其他
 
